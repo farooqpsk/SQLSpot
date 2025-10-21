@@ -1,0 +1,2 @@
+# SQLSpot
+SQLSpot Instance
