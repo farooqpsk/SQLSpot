@@ -31,7 +31,7 @@ jobs:
         run: echo Hello, world!
 
       - name: Setup MSBuild
-        uses: microsoft/setup-msbuild@v1.3 # Action to set up MSBuild environment
+        uses: microsoft/setup-msbuild@v2 # Action to set up MSBuild environment
         #with: 
          # vswhere-path: 'C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe'
          # msbuild-architecture: x64
